@@ -3,7 +3,7 @@
  * This might form part of a larger application such
  * as a library system, for instance.
  *
- * @author (Insert your name here.)
+ * @author edited by Franco Acosta
  * @version (Insert today's date here.)
  */
 class Book

@@ -1,5 +1,5 @@
 Project: book-exercise
-Authors: To be set.
+Authors: Franco Acosta.
 
 This project is part of the material for the book
 
